@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+{%- assign _parts = page.dir | replace_first: "/", "" | split: "/" %}
+{%- capture root %}{%- for _ in _parts %}/..{% endfor %}{% endcapture %}
+{%- assign root = root | default: "." | replace_first: "/", "" %}
+{%- assign root_ = root | append: "/" %}
+<html class="top" data-root="{{ root }}">
+ <head>
+  <meta charset="utf-8" />
+  <title>{{ site.title | strip_html | escape }}{% if page.title %} · {{ page.title | strip_html | escape }}{% endif %}</title>
+  <link rel="shortcut icon" type="image/x-icon" href="{{ root }}/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" type="text/css" href="https://s.zeid.me/styles/basic.css" />
+  <style type="text/css">
+   header a, header a:hover, header a:focus {
+    color: inherit;
+    text-decoration: none;
+   }
+   main p:empty {
+    height: 1em;
+   }
+   main ul + ul[style] {
+    margin-top: 0;
+   }
+   main li + li {
+    margin-top: 0.5em;
+   }
+   main ul.note {
+    padding-left: 1em;
+   }
+   main ul.note li,
+   main ul li .note,
+   main ul li a[href="#"]:last-child {
+    list-style: none;
+    font-size: smaller;
+    font-style: italic;
+    opacity: 0.5;
+   }
+   main ul li .note,
+   main ul li a[href="#"]:last-child {
+    display: inline-block;
+    padding-left: 1.25em;
+   }
+   main ul li a[href="#"]:last-child {
+    text-decoration: none;
+    color: inherit;
+    cursor: text;
+   }
+  </style>
+ </head>
+ <body>
+  <header>
+   <h1>
+    <a href="{{ root }}/">{{ site.title | escape }}</a>
+   </h1>
+  </header>
+  <main>
+   <article>
+{{ content | rstrip }}
+   </article>
+  </main>
+  <hr />
+  <footer style="text-align: center;">
+{% if site.author.url %}
+   <p>
+    <i>
+     <a href="{{ site.author.url | escape }}>">
+      {% if site.author.name %}{{ site.author.name | escape }}{% else %}{{ site.author.url | escape }}{% endif %}
+     </a>
+    </i>
+   </p>
+{% elsif site.author.name %}
+   <p>
+    <i>{{ site.author.name | escape }}</i>
+   </p>
+{% endif %}
+   <p>
+    <i>
+     <a href="{{ site.source-url | escape }}">
+      View this page's source code
+     </a>
+    </i>
+   </p>
+  </footer>
+  <script>
+   (function() {
+    window.addEventListener("load", function() {
+     document.querySelectorAll("a[href^='https:'], a[href^='http:']").forEach(function(i) {
+      if (!i.getAttribute("target"))
+       i.setAttribute("target", "_blank");
+     });
+     
+     document.querySelectorAll("main ul li a[href='#']:last-child").forEach(function(i) {
+      var span = document.createElement("span");
+      span.setAttribute("class", "note");
+      i.childNodes.forEach(function(j) {
+       span.appendChild(j);
+      });
+      i.parentNode.appendChild(span);
+      i.remove();
+     });
+    });
+   })();
+  </script>
+ </body>
+</html>

@@ -1,0 +1,13 @@
+title: Quotes
+author:
+ name: S. Zeid
+ url: https://s.zeid.me/
+source-url: https://github.com/scottywz/quotes
+
+theme:
+# Front matter defaults
+defaults:
+ - scope:
+    path: ""
+   values:
+    layout: "default"  # GH Pages already has this default, but not stock Jekyll
