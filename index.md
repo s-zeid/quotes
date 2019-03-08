@@ -75,7 +75,7 @@
 
 * Hard work pays off later, laziness pays off now.  
   —Macklemore  
-  [*(Note:  don’t take this quote seriously!  Or do, but focus on the hard work part.)*]()
+  [*(Note:  don’t take this quote seriously!  Or do, but focus on the hard work part.)*](#)
 
 * Someone who can’t accept that they could be wrong isn’t someone you can trust–because they care more about their reputation than about you!  
   <http://disruptingdinnerparties.com/2013/10/08/got-consent-5-responsibility/?relatedposts_exclude=3931>
@@ -173,7 +173,7 @@
     
     * Never explain.  Your friends do not need it and your enemies will not believe it anyway.  
       —Elbert Hubbard (not Elron Hubbard)  
-      [*"Your enemies" can also be substituted with "strangers".*]()
+      [*"Your enemies" can also be substituted with "strangers".*](#)
     
     * There is something wrong in a government where they who do the most have the least.  There is something wrong when honesty wears a rag, and rascality a robe; when the loving, the tender, eat a crust, while the infamous sit at banquets.  
       —Robert G. Ingersoll
