@@ -5,8 +5,8 @@ title: License
 License
 -------
 
-quotes.s.zeid.me but not the quotes themselves
-Copyright (c) 2016–2019 S. Zeid.  Some rights reserved.  
+quotes.s.zeid.me but not the quotes themselves  
+Copyright (c) 2016, 2018–2019 S. Zeid.  Some rights reserved.  
 <https://quotes.s.zeid.me/>
 
 
