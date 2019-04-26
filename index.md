@@ -5,6 +5,9 @@
 
 *Emphasis mine unless otherwise noted.*
 
+* **This is stuff that for-profit corporations can't and won't do, because the return on the investment is not in the next quarter—it's in the next generation.  Forward-thinking investment is a key responsibility of government—sometimes, they need to be reminded.**  
+  —Matt O'Dowd, <https://www.youtube.com/watch?v=6ACW7GVKCxs>
+
 * The earth is only the cradle of humanity, but one cannot live in a cradle forever.  
   —Konstantin Tsiolkovsky
 
