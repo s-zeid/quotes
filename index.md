@@ -32,7 +32,7 @@
      
   I paused for a second to consider the question. Then I replied that it is almost always their eyes. When I look into them, **I see both endless strength and inconsolable sadness. I see someone who has overcome humiliation and abuses that would flatten the average person. I see a woman who was made to feel shame for her desires and yet had the courage to pursue them anyway. I see a woman who was forced against her will into boyhood, who held on to a dream that everybody in her life desperately tried to beat out of her, who refused to listen to the endless stream of people who told her that who she was and what she wanted was impossible.**  
   —Julia Serano, *Whipping Girl*, Chapter 16  
-  [*(emphasis mine)*](#)
+  [*(emphasis mine)*](#note)
 
 * **Religion is like a penis:  it's okay to have one, it's okay to be proud of it, but it's *not* okay to shove it down your child's throat.**
 
@@ -78,7 +78,7 @@
 
 * Hard work pays off later, laziness pays off now.  
   —Macklemore  
-  [*(Note:  don’t take this quote seriously!  Or do, but focus on the hard work part.)*](#)
+  [*(Note:  don’t take this quote seriously!  Or do, but focus on the hard work part.)*](#note)
 
 * Someone who can’t accept that they could be wrong isn’t someone you can trust–because they care more about their reputation than about you!  
   <http://disruptingdinnerparties.com/2013/10/08/got-consent-5-responsibility/?relatedposts_exclude=3931>
@@ -176,7 +176,7 @@
     
     * Never explain.  Your friends do not need it and your enemies will not believe it anyway.  
       —Elbert Hubbard (not Elron Hubbard)  
-      [*"Your enemies" can also be substituted with "strangers".*](#)
+      [*"Your enemies" can also be substituted with "strangers".*](#note)
     
     * There is something wrong in a government where they who do the most have the least.  There is something wrong when honesty wears a rag, and rascality a robe; when the loving, the tender, eat a crust, while the infamous sit at banquets.  
       —Robert G. Ingersoll
