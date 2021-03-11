@@ -102,7 +102,7 @@
 * Programming is like sex:  make one mistake and you have to support it for the rest of your life.
 
 * I thought Intel had mandatory drug testing? Or is that just for the engineers?  
-  —Linus Torvalds, <https://plus.google.com/+LinusTorvalds/posts/7Dobu48Sxcp>
+  —Linus Torvalds, <https://web.archive.org/web/20150705111309/https://plus.google.com/+LinusTorvalds/posts/7Dobu48Sxcp>
 
 * There are two types of people who laugh at the law: those who break it and those who make it.  
   —Terry Pratchett, Night Watch
